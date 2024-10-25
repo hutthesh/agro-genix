@@ -100,5 +100,3 @@ void loop() {
   // Wait for a second before the next loop
   delay(1000);
 }
-
-pakka code to shoe temperature, humidity, pressure and gas
